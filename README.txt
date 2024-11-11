@@ -1,4 +1,4 @@
-**OS Assignment 3 - Shell Program README**
+
 
 ## **Overview**
 This project implements a **shell program in C** that can **parse, execute, and manage commands**. It supports built-in commands like changing directories (`cd`), displaying process status (`status`), and exiting the program (`exit`). Additionally, it can handle **foreground and background processes** and manage custom signal handling for **SIGINT** (`Ctrl+C`) and **SIGTSTP** (`Ctrl+Z`).
