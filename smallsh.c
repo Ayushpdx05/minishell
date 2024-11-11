@@ -1,5 +1,5 @@
 //Ayush Singh
-//OS assignmnt 3
+
 #include <stdio.h>
 #include <string.h>
 #include <sys/stat.h>
